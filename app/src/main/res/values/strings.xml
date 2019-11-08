@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoremRoom</string>
+    <string name="button_text">Get data</string>
+    <string name="editText_hint">Type keyword(s)</string>
+    <string name="label_owner_text">Owner:</string>
+    <string name="label_license_text">License:</string>
+</resources>
